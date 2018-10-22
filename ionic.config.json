@@ -1,0 +1,8 @@
+{
+  "name": "coffe-machine",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "181fafe4"
+}
